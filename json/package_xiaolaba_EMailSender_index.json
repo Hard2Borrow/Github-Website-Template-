@@ -1,0 +1,82 @@
+{
+  "packages": [
+    {
+      "name": "EMailSender",
+      "maintainer": "xiaolaba, fork https://github.com/xreef/EMailSender",
+      "websiteURL": "https://xiaolaba.github.io/EMailSender/",
+      "email": "xiao_laba_cn@yahoo.com",
+      "json": "https://xiaolaba.github.io/json/package_xiaolaba_EMailSender_index.json",
+      "help": {
+        "online": "https://xiaolaba.github.io/EMailSender"
+
+      },
+      "platforms": [
+
+        {
+          "name": "EMailSender",
+          "architecture": "esp",
+          "version": "2.0.1",
+          "category": "Contributed",
+          "url": "https://github.com/xreef/EMailSender/archive/v2.0.1.zip",
+          "archiveFileName": "EMailSender-2.0.1.zip",
+          "checksum": "SHA-256:01844730ecbd5e210d285e1bc2748ad6fc9f3f76b1cac9f355e1dbf93ad60dac",
+          "size": "80011",
+          "boards": [
+            {
+              "name": "ESP32"
+            },
+            {
+              "name": "ESP8266"
+            }
+          ],
+          "toolsDependencies": []
+        },
+        
+        {
+          "name": "EMailSender",
+          "architecture": "esp",
+          "version": "2.0.0",
+          "category": "Contributed",
+          "url": "https://xiaolaba.github.io/EMailSender/release/EMailSender-2.0.0.zip",
+          "archiveFileName": "EMailSender-2.0.0.zip",
+          "checksum": "SHA-256:a967511bac1472f31da2864b3d96a757f306b525e07bd5b529cc40d2263cc2d7",
+          "size": "79779",
+          "boards": [
+            {
+              "name": "ESP32"
+            },
+            {
+              "name": "ESP8266"
+            }
+          ],
+          "toolsDependencies": []
+        },
+        
+        {
+          "name": "EMailSender",
+          "architecture": "esp",
+          "version": "0.1",
+          "category": "Contributed",
+          "url": "https://github.com/xiaolaba/EMailSender/archive/v0.1.zip",
+          "archiveFileName": "EMailSender-0.1.zip",
+          "checksum": "SHA-256:c3542d209aa097d753b036658d5c7af1f2db317ee6dc4a1cc889de81f989769a",
+          "size": "207429",
+          "boards": [
+            {
+              "name": "ESP32"
+            },
+            {
+              "name": "ESP8266"
+            }
+          ],
+          "toolsDependencies": []
+        }
+               
+        
+        
+      ],
+      "tools": []
+    }
+  ]
+}
+

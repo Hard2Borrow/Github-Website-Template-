@@ -1,0 +1,26 @@
+{
+  "libraries": [
+    {
+      "name": "EMailSender",
+      "version": "2.0.1",
+      "author": "test",
+      "maintainer": "Arduino test",
+      "sentence": "test own library.",
+      "paragraph": "hello",
+      "website": "https://xiaolaba.github.io/",
+      "category": "test lib",
+      "architectures": [
+        "ESP32"
+      ],
+      "types": [
+        "Arduino"
+      ],
+      "repository": "https://xiaolaba.github.io/EMailSender.git",
+      "url": "https://xiaolaba.github.io/EMailSender-2.0.1.zip",
+      "archiveFileName": "EMailSender-2.0.1.zip",
+      "size": 80011,
+      "checksum": "SHA-256:01844730ecbd5e210d285e1bc2748ad6fc9f3f76b1cac9f355e1dbf93ad60dac"
+    }
+    
+  ]
+}
